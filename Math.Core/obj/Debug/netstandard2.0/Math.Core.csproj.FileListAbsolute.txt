@@ -1,0 +1,18 @@
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\bin\Debug\netstandard2.0\Math.Core.deps.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\bin\Debug\netstandard2.0\Math.Core.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\bin\Debug\netstandard2.0\Math.Core.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.csproj.CoreCompileInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.AssemblyInfoInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.AssemblyInfo.cs
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core\obj\Debug\netstandard2.0\Math.Core.csprojAssemblyReference.cache
+C:\GitHub\MathApi\Math.Core\bin\Debug\netstandard2.0\Math.Core.deps.json
+C:\GitHub\MathApi\Math.Core\bin\Debug\netstandard2.0\Math.Core.dll
+C:\GitHub\MathApi\Math.Core\bin\Debug\netstandard2.0\Math.Core.pdb
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.csprojAssemblyReference.cache
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.AssemblyInfoInputs.cache
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.AssemblyInfo.cs
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.dll
+C:\GitHub\MathApi\Math.Core\obj\Debug\netstandard2.0\Math.Core.pdb

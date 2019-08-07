@@ -1,0 +1,34 @@
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\MathApi.deps.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\MathApi.runtimeconfig.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\MathApi.runtimeconfig.dev.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\MathApi.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\MathApi.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\Math.Core.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\bin\Debug\netcoreapp2.1\Math.Core.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.csprojAssemblyReference.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.csproj.CoreCompileInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorAssemblyInfo.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorAssemblyInfo.cs
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.AssemblyInfoInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.AssemblyInfo.cs
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorTargetAssemblyInfo.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.csproj.CopyComplete
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\MathApi\obj\Debug\netcoreapp2.1\MathApi.pdb
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\MathApi.deps.json
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\MathApi.runtimeconfig.json
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\MathApi.runtimeconfig.dev.json
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\MathApi.dll
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\MathApi.pdb
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\Math.Core.dll
+C:\GitHub\MathApi\MathApi\bin\Debug\netcoreapp2.1\Math.Core.pdb
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.csprojAssemblyReference.cache
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.csproj.CoreCompileInputs.cache
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorAssemblyInfo.cache
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorAssemblyInfo.cs
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.AssemblyInfoInputs.cache
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.AssemblyInfo.cs
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.RazorTargetAssemblyInfo.cache
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.csproj.CopyComplete
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.dll
+C:\GitHub\MathApi\MathApi\obj\Debug\netcoreapp2.1\MathApi.pdb

@@ -1,0 +1,34 @@
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.deps.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.runtimeconfig.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.runtimeconfig.dev.json
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.pdb
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csprojAssemblyReference.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.AssemblyInfo.cs
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csproj.CopyComplete
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.dll
+C:\Users\Evandro\Documents\Visual Studio 2017\Projects\Math\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.pdb
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.deps.json
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.runtimeconfig.json
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.runtimeconfig.dev.json
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.dll
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.UnitTest.pdb
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.dll
+C:\GitHub\MathApi\Math.Core.UnitTest\bin\Debug\netcoreapp2.1\Math.Core.pdb
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csprojAssemblyReference.cache
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csproj.CoreCompileInputs.cache
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.AssemblyInfoInputs.cache
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.AssemblyInfo.cs
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.csproj.CopyComplete
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.dll
+C:\GitHub\MathApi\Math.Core.UnitTest\obj\Debug\netcoreapp2.1\Math.Core.UnitTest.pdb
